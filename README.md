@@ -26,15 +26,15 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ## My Social media
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nczeesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/encdamz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nczeesh)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shenczz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/encdamz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shenczz)  
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nczeesh&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="nczeesh" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shenczz&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="shenczz" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/nczeesh)  
+![GitHub metrics](https://metrics.lecoq.io/shenczz)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nczeesh&theme=dark" alt="nczeesh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shenczz&theme=dark" alt="shenczz" /></p>
 
 <br>
 
