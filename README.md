@@ -16,7 +16,7 @@ Languages & Frameworks:
 
 Tools:
 
-![Tools:](https://skillicons.dev/icons?i=vscode,git,github)
+![Tools:](https://skillicons.dev/icons?i=vscode,postgres,git,github)
 
 ## My Social media
 
