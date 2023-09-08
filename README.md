@@ -4,29 +4,25 @@
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 ##
-- 🌱 I’m currently learning HTML, Css, Js, Go, Node Js
+- 🌱 I’m currently learning HTML, Css, Js, Go, Node Js, Express
 - 📖 On Going Bootcamp In Dumbways
 - 📫 How to reach me: mrsaddam2806@gmail.com 
 
-## Skills
-<p> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-</p>
+## Used Languages & Tools
+
+Languages & Frameworks:
+
+![Languages & Frameworks:](https://skillicons.dev/icons?i=html,css,js,golang,nodejs,express)
+
+Tools:
+
+![Tools:](https://skillicons.dev/icons?i=vscode,git,github)
 
 ## My Social media
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shenczz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/encdamz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shenczz)  
+Social Media :
+
+![SocialMedia:](https://skillicons.dev/icons?i=twitter,instagram,linkedin)
 
 ## Stats
 
