@@ -12,11 +12,11 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Languages & Frameworks:
 
-![Languages & Frameworks:](https://skillicons.dev/icons?i=html,css,js,golang,nodejs,express)
+![Languages & Frameworks:](https://skillicons.dev/icons?i=html,css,js,golang,nodejs,express,ts)
 
 Tools:
 
-![Tools:](https://skillicons.dev/icons?i=vscode,postgres,git,github)
+![Tools:](https://skillicons.dev/icons?i=vscode,postgres,postman,git,github)
 
 ## My Social media
 
