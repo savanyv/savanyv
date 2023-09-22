@@ -1,8 +1,6 @@
 ### Hello there 👋, My Name Is ShencZ
 ![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
 ##
 - 🌱 I’m currently learning HTML, Css, Js, Go, Typescript, Node Js, Express
 - 📖 On Going Bootcamp In Dumbways
