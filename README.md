@@ -4,7 +4,7 @@
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 ##
-- 🌱 I’m currently learning HTML, Css, Js, Go, Node Js, Express
+- 🌱 I’m currently learning HTML, Css, Js, Go, Typescript, Node Js, Express
 - 📖 On Going Bootcamp In Dumbways
 - 📫 How to reach me: mrsaddam2806@gmail.com 
 
