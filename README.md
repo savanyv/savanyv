@@ -12,7 +12,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Languages & Frameworks:
 
-![Languages & Frameworks:](https://skillicons.dev/icons?i=html,css,js,golang,nodejs,express,ts)
+![Languages & Frameworks:](https://skillicons.dev/icons?i=html,css,js,golang,ts,nodejs,express)
 
 Tools:
 
