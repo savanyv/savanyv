@@ -24,11 +24,11 @@ Social Media :
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=damshxyz&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="damshxyz" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=damshxy&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="damshxy" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/damshxyz)  
+![GitHub metrics](https://metrics.lecoq.io/damshxy)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damshxyz&theme=dark" alt="damshxyz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damshxy&theme=dark" alt="damshxy" /></p>
 
 <br>
 
