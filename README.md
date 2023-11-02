@@ -26,7 +26,7 @@ Social Media :
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=damshxy&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="damshxy" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/damshxy)  
+![GitHub metrics](https://metrics.lecoq.io/damshxy)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damshxy&theme=dark" alt="damshxy" /></p>
 
