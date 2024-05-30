@@ -3,7 +3,7 @@
 
 ##
 - 🌱 I’m currently learning HTML, Css, Js, Go, Typescript, Node Js, Express
-- 📖 On Going Bootcamp In Dumbways
+- 📖 Graduate Bootcamp In Dumbways
 - 📫 How to reach me: mrsaddam2806@gmail.com 
 
 ## Used Languages & Tools
