@@ -14,7 +14,7 @@ Languages & Frameworks:
 
 Tools:
 
-![Tools:](https://skillicons.dev/icons?i=vscode,postgres,powershell,postman,git,github)
+![Tools:](https://skillicons.dev/icons?i=vscode,postgres,powershell,postman,git,github,linux)
 
 ## My Social media
 
