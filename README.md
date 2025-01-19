@@ -13,7 +13,6 @@ Languages & Frameworks:
 ![Languages & Frameworks:](https://skillicons.dev/icons?i=html,css,js,golang,ts,nodejs,express)
 
 Tools:
-
 ![Tools:](https://skillicons.dev/icons?i=vscode,postgres,powershell,postman,git,github,linux)
 
 ## My Social media
@@ -24,11 +23,11 @@ Social Media :
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=damshxy&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="damshxy" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=savanyv&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="savanyv" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/damshxy)
+![GitHub metrics](https://metrics.lecoq.io/savanyv)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damshxy&theme=dark" alt="damshxy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savanyv&theme=dark" alt="savanyv" /></p>
 
 <br>
 
